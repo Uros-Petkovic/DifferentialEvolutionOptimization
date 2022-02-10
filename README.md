@@ -1,5 +1,4 @@
 # DifferentialEvolutionOptimization
-
 This project is optimization of n-dimensional polinom, actually finding optimal coefficients in polinom so the criterium function has it's minimum.
 
 The algorithm that is implemented is Differential Evolution.
